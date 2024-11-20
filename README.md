@@ -1,0 +1,9 @@
+MCNSHS Total Population for S.Y. 2024-2025
+Grade Level	Male	Female	Total
+7	216	260	476
+8	194	184	378
+9	167	204	371
+10	163	19	357
+11	199	216	415
+12	181	202	383
+
